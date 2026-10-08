@@ -1,0 +1,10 @@
+streamlit>=1.35
+requests
+beautifulsoup4
+lxml
+pandas
+numpy
+scikit-learn
+gensim
+Sastrawi
+joblib
